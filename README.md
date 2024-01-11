@@ -25,3 +25,38 @@ Day 2 - Recursion and Search<br />
 2.4. Find the Factorial of a given number using recursion<br />
 2.5. Linear search of array<br />
 2.6. Binary search of array<br />
+Day 7 -Queue<br/>
+7.1. Implement Queue using array with following operations[ Enqueue( ) Dequeue( ) isEmpty( ) isFull( ) Display( ) front( ) orPeek( ) rear( )]<br/>
+7.2. Implement Queue using Linked List with following operations [Enqueue( ) Dequeue( ) Display( ) Front( ) Rear( )]<br/>
+7.3. Implement CircularQueue using array with following operations [Enqueue( ) Dequeue( ) isEmpty( ) isFull( ) Display( ) front( ) orPeek( ) rear( )]<br/>
+7.4. Implement CircularQueue using Linked List with following operations [Enqueue( ) Dequeue( ) Display( ) Front( ) Rear( )]<br/>
+7.5. Implement Stack using two queues<br/>
+7.6. Implement Queue using two Stacks<br/>
+
+Day 8 -Tree<br/>
+8.1. Implement Binary tree<br/>
+8.2. Implement Binary Search Tree and perform Insertion and Deletion<br/>
+8.3. Create Binary Search Tree with Tree Traversal (Inorder, Preorder, Postorder and Level order<br/>
+
+Day 9 -AVL Tree<br/>
+9.1 Implement a C program for AVL tree and perform insertion and deletion of nodes<br/>
+
+Day 10 -Red-Black & Splay Tree<br/>
+10.1. Implement a C Program for Red Black tree and perform Insertion and Deletion of Nodes<br/>
+10.2. Implement a C Program for Splay tree tree and perform Insertion and Deletion of Nodes<br/>
+
+Day 11 -B Tree & TRIE<br/>
+11.1. Implement a C Program for B Tree and perform Insertion of Nodes<br/>
+11.2. Implement a C Program for TRIE Tree and perform Insertion of Nodes<br/>
+
+Day 12 -Hashing<br/>
+12.1. Implement a C Program to perform Hashing with all collision resolving techniques<br/>
+12.2. Implement a C Program for Min Heap and Max Heap and perform Insertion of Nodes<br/>
+12.3. Implement a C Program to perform Heap sort both ascending and Descending order<br/>
+
+Day 13 -Sorting<br/>
+13.1 Bubble Sort<br/>
+13.2 Insertion Sort<br/>
+13.3 Radix Sort<br/>
+13.4 Merge Sort<br/>
+13.5 Shell Sort<br/>
